@@ -1,0 +1,9 @@
+# Ignore l'environnement virtuel
+env_red_teaming/
+
+# Ignore les fichiers de cache Python
+__pycache__/
+*.pyc
+
+# Ignore les fichiers temporaires générés par Jupyter Notebooks (si tu les utilises)
+.ipynb_checkpoints/
